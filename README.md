@@ -119,6 +119,8 @@ Campaign Date
 Brand
 
 ## Tools Used
-MySQL — data storage, data cleaning and business analysis queries
-Excel — exploratory analysis and validation
-Tablue — interactive dashboard and KPI visualization
+MySQL: data storage, data cleaning and business analysis queries. 
+
+Excel: exploratory analysis and validation.
+
+Tablue: interactive dashboard and KPI visualization
