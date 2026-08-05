@@ -5,6 +5,14 @@ This project analyzes digital marketing campaign performance across three e-comm
 
 Rather than simply reporting campaign metrics, this project demonstrates how marketing data can support strategic business decisions.
 
+## Project Workflow
+
+<p align="center">
+  <img src="images/project_workflow.png"
+       alt="Marketing Analytics Project Workflow"
+       width="1000">
+</p>
+
 ## Business Problem
 
 Over the past year, the company has invested thousands of marketing campaigns across multiple channels. However, management needs to answer an important business question:
