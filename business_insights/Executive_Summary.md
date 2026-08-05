@@ -51,7 +51,7 @@ Campaign distribution was relatively balanced across all marketing channels, wit
 
 ## Monthly Performance
 
-![Monthly Trend](monthly_trend.png)
+![Monthly Performance](monthly_performance.png)
 
 ### Key Findings
 
